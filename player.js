@@ -15,7 +15,7 @@ class Player {
     this.appearance = {
       hairColor: '#654321', // Brown hair
       eyeColor: '#4169E1', // Blue eyes
-      skinColor: '#FDBCB4', // Skin tone
+      skinColor: '#FFFFFF', // White skin
       jacketColor: '#556B2F', // Camouflaged jacket (olive green)
       pantsColor: '#D2B48C', // Light brown pants
       shoeColor: '#808080' // Gray shoes
